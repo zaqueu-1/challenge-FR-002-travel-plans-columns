@@ -7,7 +7,7 @@
 Tudo certo por enquanto!
 
 ## 🚀 Deploy
-https://challenge-fr-002-linktree-hub.vercel.app/
+https://challenge-fr-002-travel-plans-columns.vercel.app/
 
 ## 🖼️ Demonstração
 ![demo](https://github.com/zaqueu-1/challenge-FR-002-travel-plans-columns/blob/main/github/demo.png)
